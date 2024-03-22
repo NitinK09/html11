@@ -1,0 +1,32 @@
+Internet and Basics:
+Interner is Network of Networks. www stands for world wide web is implemented by Tim Berner's Lee.
+when we enter google.com(url) in browser, browser requests ISP(like jio,airtel), then it moves to DNS(Domain Name Systemm), it will lead to server by IP adress. server will respond and client recieves HTML,CSS,JS
+Domain(.com,in etc...,), URL(Uniform Resource Locator), http vs https(SSL- secure socket layer certificate)
+Basic Linux: cd-- change directory
+cd folder name ---> it will make control forward to another folder
+cd..---> it will make control back to previous folder
+ls--> list of all
+mkdir--> create a directoryrmdir--> removes directory
+
+Basic HTML: html is maintain by tags and elements, elements are nothing but content embraced by open and close tags.
+<html>
+<head>
+<title></title>
+<head>
+<body>
+</body>
+How to Maintain Blog?:
+we can maintain a basic Blog in Hashnode, hashnode and dev are famous communities for developers
+create an account in hashnode and a blog in hashnode, and click write at top and write an article on what you know
+
+Git and GitHub:
+Git is a application which is used for version control. git is a centralised version control system. git keeps track of all your version changes and updates.
+git will contain three phases
+     Working phase/Working area:  git init
+     Staging phase/Staging area:  git add .
+     Local Repository:  git commit -m "message"
+     to solve who are you?
+     git config --global user.email "your email id"
+     git config --global user.name "username"
+     git remote add origin "link"
+     git push 
