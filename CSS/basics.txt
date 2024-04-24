@@ -1,0 +1,13 @@
+// we discuss in HTML till tables
+ just understand how CSS works
+ CSS: cascading style sheets. these are used to include styling/designing into web pages.
+ There are three ways to achieve CSS
+ 1. Inline : inline css means in the line of html element, style will apply as attribute
+ <h1 style="color:red">something</h1>
+ 2. Internal : internal styling means applying style as element
+ <style>
+ selector{
+    property-name:value;
+         }
+ </style>
+ /*selectors can be

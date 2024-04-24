@@ -1,0 +1,4 @@
+Java Script is called the language of web. it is the programming language for web development.
+JS is used for functioning of the website.
+JS is actually maintained by Ecma Script. we are currently in ES13 but popuar is ES6.
+JS files used extention .JS

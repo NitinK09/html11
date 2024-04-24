@@ -1,0 +1,48 @@
+body
+{
+    background-color:azure;
+    background-image: url("");
+}
+.box
+{
+    margin: 25px;
+    border-width: 3px;
+    border-color:blue;
+    border-style:solid;
+    border-radius: 20px;
+    padding: 10px;
+    
+
+}
+.box:hover
+{
+    background-color: green;
+}
+.box1
+{
+    box-sizing: border-box;
+    
+    margin:50px;
+    background-color: aqua;
+    border: 2x solid black;
+    
+    border-radius:50px;
+    padding: 40px 30px;
+    box-shadow: 5px 5px black;
+    
+}
+.box1:hover{
+   background-color: red
+
+}
+p 
+{
+    margin: 0px;
+    text-align: left;
+    text-decoration: dashed;
+}
+a{
+    text-decoration: wavy;
+    text-decoration-line: underline;
+    
+}

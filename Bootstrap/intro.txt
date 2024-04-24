@@ -1,0 +1,2 @@
+Bootstrap is component library (a pre written code for a specific purpose)
+Bootstrap provides responsiveness.
